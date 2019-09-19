@@ -1,5 +1,6 @@
 # Pyroclastic Scoreless Burnouts
 
-- Sajarin Dider  
-  **Marco Valero**
+* Sajarin Dider
+* Amal Mittal
+* Marco Valero
 * Hubert Ye
